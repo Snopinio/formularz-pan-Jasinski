@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman';
+    background-color: whitesmoke;
+}
+#gora{
+    text-align: center;
+    color: darkred;
+    padding: 10px;
+    border: 1px;
+    width: 100%;
+    font-size:x-large ;
+    font-style:italic ;
+}
+
+#tabela{
+    padding: 10px;
+   margin: 0, auto;
+
+}
+#dol{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: darkred;
+    padding: 10px;
+    text-align: center;
+}

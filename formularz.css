@@ -1,0 +1,64 @@
+body{
+    font-family: 'Times New Roman';
+    background-color: rgb(240, 234, 234);
+}
+div#banner{
+    text-align: center;
+    color: darkred;
+    font-size:x-large ;
+    font-style:italic ;
+}
+label{
+    font-weight: bold;
+
+}
+#login {
+    width: 50%;
+    margin: 50px auto;
+    border-radius: 10px;
+    padding: 10%;
+    background-color: white;
+    text-align: center;
+}
+input[type="submit"] {
+    width: 50%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #5a4c33;
+    color: #fff;
+}
+input[type="text"]{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #5a4c33;
+    color: #fff;
+}
+input[type="email"]{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #5a4c33;
+    color: #fff;
+}
+input[type="password"]{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #5a4c33;
+    color: #fff;
+}
+input[type="email"]{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #5a4c33;
+    color: #fff;
+}
+input[type="checkInput"]{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #5a4c33;
+    color: #fff;
+}
